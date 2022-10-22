@@ -1,0 +1,16 @@
+[
+  {
+    "curso": "Paradigmas",
+    "proyecto": "urquery",
+    "semestre": "II Semestre",
+    "año": 2022,
+    "escuela": "Le hace falta",
+    "universidad": "Todavía más",
+    "members":
+    {
+      "member1": "Dania Céspedes Solís",
+      "member2": "mamapichas",
+      "member3": "otro mama pichas"
+    }
+  }
+]
