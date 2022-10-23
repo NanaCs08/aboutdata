@@ -1,6 +1,5 @@
 {
-  "curso": "Paradigmas",
-  "proyecto": "urquery",
-  "semestre": "II Semestre",
-  "año": 2022
+  "datos": [
+    { "curso": "paradigmas", "title": "Post 1" },
+  ]
 }
