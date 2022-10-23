@@ -1,7 +1,5 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "miembros": [
+    { "id": 1, "name": "Dania Céspedes Solís", "name2": "mamapichas", "name2": "otro mamapichas", "curso": "Paradigmas", "annio": "2022" },
   ]
 }
